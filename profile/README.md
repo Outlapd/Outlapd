@@ -29,6 +29,6 @@ More information will be revealed as the project evolves.
 
 ---
 
-**OutLapd — every fast lap begins with an out lap.**
+**OutLapd — before every fast lap comes an outlap.**
 
 ---
